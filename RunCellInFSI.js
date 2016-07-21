@@ -9,8 +9,6 @@
 /// Assign `Ctrl+Alt+/`.
 ///
 /// For latest versions, check https://github.com/t0yv0/fsharp-vs-macros
-///
-/// <reference path="C:\Users\Anton\AppData\Local\Microsoft\VisualStudio\14.0\Macros\dte.js" />
 
 (function () {
     var se = dte.ActiveDocument.Selection
